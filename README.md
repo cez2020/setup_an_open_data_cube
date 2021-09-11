@@ -23,7 +23,7 @@
 > activate cubeenv
 > conda install jupyter matplotlib scipy
 ```
-Connect ODC environment to database
+Connect ODC environment to database (See [configuration_file](https://datacube-core.readthedocs.io/en/latest/ops/db_setup.html))
 
 ## Product definition and Image indexation
 Sentinel-2 GeoTIFF indexing ([tool](https://github.com/opendatacube/datacube-dataset-config/blob/main/sentinel-2-l2a-cogs.md))
