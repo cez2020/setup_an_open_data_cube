@@ -42,10 +42,11 @@ Sample indexation command
 
 ## Product generation and visualization
 See Jupyter Notebook file for code
-Visualizations may be displayed within ODC environment
-OR
-After exporting Tiff files for analysis elsewhere.
-The following images were generated in QGIS:
+Visualizations may be displayed within ODC environment  
+OR  
+After exporting Tiff files for analysis elsewhere.  
+The following images were generated in QGIS:  
+
 RGB
 ![img2](/img/maldonado_rgb_2.png)
 
