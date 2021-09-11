@@ -42,6 +42,7 @@ Sample indexation command
 --collections=sentinel s2 l2a cogs
 --datetime=2020 01 01/2020 12 31
 ```
+Spatial extent of indexed images
 
 ![img1](/img/odc_extent_mad_dios.png)
 
