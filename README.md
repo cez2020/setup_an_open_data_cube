@@ -1,8 +1,11 @@
-# Install and set up an Open Data Cube
-* Earth Observation tool that facilitates access and analysis of satellite images.
-* Several installation methods and countless datasets can be indexed for analysis.
-* This project worked with Sentinel-2 Level-2A images hosted in an AWS Cloud bucket.
-* No satellite data was manually downloaded or locally saved.
+# Implementation of an Open Data Cube for Processing Sentinel-2 Data
+* A data cube is a multidimensional data structure
+* Open Data Cube facilitates access and broadens the use of satellite imagery
+* Free and open-source software built upon a series of Python libraries and a database connection
+* Sentinel-2 Level-2A (bottom of atmosphere reflectance) cloud-hosted images: atmospheric corrections, free access, and global coverage
+* Thousands of cloud-optimized Sentinel-2 images were indexed into ODC database
+* Sentinel-2 data was retrieved from the cloud and into local environment
+* Popular EO products such as water and vegetation indexes were generated within ODC environment writing Python code in Jupyter Notebook
 
 ## Materials
 * Data set: Sentinel-2 Level-2A in cloud-optimized GeoTIFF format ([link](https://registry.opendata.aws/sentinel-2-l2a-cogs/))
