@@ -5,7 +5,7 @@
 * No satellite data was manually downloaded or locally saved.
 
 ## Materials
-* Data set: Sentinel-2 Level-2A in cloud-optimized GeoTIFF format ([link](https://registry.opendata.aws/sentinel-2-l2a-cogs/)
+* Data set: Sentinel-2 Level-2A in cloud-optimized GeoTIFF format ([link](https://registry.opendata.aws/sentinel-2-l2a-cogs/))
 * System: Windows
 * Python 3.7
 * Installation method: Anaconda
