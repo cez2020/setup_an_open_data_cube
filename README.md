@@ -26,6 +26,8 @@
 Connect ODC environment to database (See [configuration_file](https://datacube-core.readthedocs.io/en/latest/ops/db_setup.html))
 
 ## Product definition and Image indexation
+Sentinel-2 Level-2A Cloud-optimized GeoTIFF product definition file ([link](https://github.com/opendatacube/datacube-dataset-config/blob/main/products/s2_l2a.odc-product.yaml))  
+
 Sentinel-2 GeoTIFF indexing ([tool](https://github.com/opendatacube/datacube-dataset-config/blob/main/sentinel-2-l2a-cogs.md))
 
 Product definition
